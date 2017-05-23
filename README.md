@@ -1,4 +1,4 @@
-# GraphiQL
+# Ring-GraphiQL
 Jar-packaged version of GraphiQL for ring-based clojure web-apps (and other JVM apps).
 
 The GraphiQL integration is based on [CustomGraphiQL](https://github.com/shahankit/custom-graphiql/).
@@ -39,7 +39,7 @@ lein do clean, install
 
 ### CustomGraphiQL
 
-shahankit/custom-graphiql is licensed under the MIT License 
+shahankit/custom-graphiql is licensed under the [MIT License](https://github.com/shahankit/custom-graphiql/blob/master/LICENSE)
 
 ### These scripts
 
